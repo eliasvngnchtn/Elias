@@ -1904,20 +1904,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/repro2-3-2000x2556.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/repro2-3-2000x2556-800x1022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/repro2-2-2000x2556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/repro2-2-2000x2556-800x1022.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/portoflio7-4-1936x2777.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/portoflio7-4-1936x2777-800x1147.jpg",
+                "image": "@PROJECT_PATH@/assets/images/portoflio7-2-1936x2777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portoflio7-2-1936x2777-800x1147.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -1940,12 +1940,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/repro1-3-2000x2556.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/repro1-3-2000x2556-800x1022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/repro1-2-2000x2556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/repro1-2-2000x2556-800x1022.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
